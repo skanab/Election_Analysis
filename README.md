@@ -1,7 +1,7 @@
 # Election Analysis
 
 ## Overview of Election Audit
-The election commission has requested an audit of the votes from a single congressional precinct in Colorado using python. The commission has provided the data in the election_results.csv stored in the [Resource folder](https://github.com/skanab/Election_Analysis/blob/main/Resources/) of this project. The data consists of CSV(comma separated values) of ballot ID, county, and candidate vote for each of the 369,711 votes contained in the file.
+The election commission has requested an audit of the votes from a single congressional precinct in Colorado using python. The commission has provided the data in the election_results.csv stored in the [Resources folder](https://github.com/skanab/Election_Analysis/blob/main/Resources/) of this project. The data consists of CSV(comma separated values) of ballot ID, county, and candidate vote for each of the 369,711 votes contained in the file.
 
 The commission has asked for the following:
 
